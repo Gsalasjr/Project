@@ -29,7 +29,7 @@
     "id": "1",
     "name": "Jane Doe",
     "description": "A tech enthusiast who loves the latest gadgets.",
-    "itemId": "2"  // Assuming Jane is related to the iPhone 13
+    "itemId": "2" 
   },
   {
     "@context": "https://schema.org",
@@ -37,7 +37,7 @@
     "id": "2",
     "name": "John Smith",
     "description": "A culinary expert interested in exploring new cooking techniques.",
-    "itemId": "1"  // Assuming John is interested in the book 'Modernist Cuisine'
+    "itemId": "1"
   }
 ],
   "collection": {
