@@ -1,27 +1,27 @@
 {
   "items": [
-    {
-      "@context": "https://schema.org",
-      "@type": "CreativeWork",
-      "id": "1",
-      "name": "Soccer ball",
-      "description": "Item for football playing"
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "CreativeWork",
-      "id": "2",
-      "name": "Skateboard",
-      "description": "Item for creative playing"
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "CreativeWork",
-      "id": "3",
-      "name": "Laptop",
-      "description": "Item for innovating and building"
-    }
-  ],
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "1",
+    "name": "Modernist Cuisine",
+    "description": "A revolutionary new understanding of one of the most important staples of the human diet."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "2",
+    "name": "iPhone 13",
+    "description": "Apple iPhone 13 smartphone with advanced camera features and A15 Bionic chip."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "id": "3",
+    "name": "Keurig K-Classic",
+    "description": "Coffee maker capable of brewing multiple sizes of coffee cups quickly."
+  }
+],
   "users": [
     {
       "@context": "https://schema.org",
